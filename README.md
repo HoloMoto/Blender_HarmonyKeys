@@ -1,4 +1,4 @@
-# Blender_MusicXML_to_Animation
+# HarmonyKeys
 
 This is a Python code for creating an automatic music-playing animation in Blender by reading MusicXML.
 
